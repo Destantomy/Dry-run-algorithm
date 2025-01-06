@@ -1,1 +1,0 @@
-# this folder repo is for flowchart diagram description
